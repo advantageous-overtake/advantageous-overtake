@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there 👋 ![](https://komarev.com/ghpvc/?username=wfrsk&style=for-the-badge)
 
-<!--
-**wfrsk/wfrsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on ... don't have priorities, I simply let my fingers flow!
+- 🌱 I’m currently learning ... [Elixir](https://Elixir-lang.org), [Rust](https://rust-lang.org) and [Life 😉](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- 👯 I’m looking to collaborate on ... basically anything!
+- 🤔 I’m looking for help with ... whatever you desire!
+- 💬 Ask me about ... anything! I'll do my best :)
+- 📫 How to reach me ... proceed to [send me an e-mail](mailto:wfrsk+inquiry@proton.me)!
 
-Here are some ideas to get you started:
+### Stats Tracker 
+| **Codewars**      | <a href="https://www.codewars.com/users/knnk"><img src="https://www.codewars.com/users/knnk/badges/large" /></a>                                            |
+|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Github Stats**  | <img src="https://github-readme-stats.vercel.app/api?username=wfrsk&title_color=fff&text_color=fff&show_icons=true&theme=dark" /> |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="github-snake" src="dist/github-snake-dark.svg" />
+</picture>
