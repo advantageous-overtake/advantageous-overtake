@@ -10,7 +10,7 @@
 ### Stats Tracker 
 | **Codewars**      | <a href="https://www.codewars.com/users/knnk"><img src="https://www.codewars.com/users/knnk/badges/large" /></a>                                            |
 |-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Github Stats**  | <img src="https://github-readme-stats.vercel.app/api?username=wfrsk&title_color=fff&text_color=fff&show_icons=true&theme=dark" /> |
+| **Github Stats**  | <img src="https://github-readme-stats.vercel.app/api?username=wfrsk&title_color=fff&text_color=fff&show_icons=true&count_private=true&theme=dark" /> |
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
