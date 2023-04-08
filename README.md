@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-<div align="center">
-  <div align="right" style="display: table; position: relative">
-    <img align="right" style="display: table-cell; vertical-align: middle" src="https://moe-counter.glitch.me/get/@wfrsk?theme=rule34" />  
-  </div>
+<div>
+
   
-  <div align="left">
+  <div>
+    <div>
+      <img style="width: 25%" align="right" src="https://moe-counter.glitch.me/get/@wfrsk?theme=rule34" />
+    </div>
+  
 
 - 🔭 I’m currently working on ... don't have priorities, I simply let my fingers flow!
 - 🌱 I’m currently learning ... [Elixir](https://Elixir-lang.org), [Rust](https://rust-lang.org) and [Life 😉](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
@@ -13,7 +15,7 @@
 - 🤔 I’m looking for help with ... whatever you desire!
 - 💬 Ask me about ... anything! I'll do my best :)
 - 📫 How to reach me ... proceed to [send me an e-mail](mailto:wfrsk+inquiry@proton.me)!
-
+    
   </div>
 </div>
 
