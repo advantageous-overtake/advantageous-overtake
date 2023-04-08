@@ -1,4 +1,11 @@
-### Hi there 👋 ![](https://komarev.com/ghpvc/?username=wfrsk&style=for-the-badge)
+### Hi there 👋
+
+<div align="center">
+  <div align="right" style="display: table; position: relative">
+    <img align="right" style="display: table-cell; vertical-align: middle" src="https://moe-counter.glitch.me/get/@wfrsk?theme=rule34" />  
+  </div>
+  
+  <div align="left">
 
 - 🔭 I’m currently working on ... don't have priorities, I simply let my fingers flow!
 - 🌱 I’m currently learning ... [Elixir](https://Elixir-lang.org), [Rust](https://rust-lang.org) and [Life 😉](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
@@ -7,13 +14,20 @@
 - 💬 Ask me about ... anything! I'll do my best :)
 - 📫 How to reach me ... proceed to [send me an e-mail](mailto:wfrsk+inquiry@proton.me)!
 
-### Stats Tracker 
-| **Codewars**      | <a href="https://www.codewars.com/users/knnk"><img src="https://www.codewars.com/users/knnk/badges/large" /></a>                                            |
-|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Github Stats**  | <img src="https://github-readme-stats.vercel.app/api?username=wfrsk&title_color=fff&text_color=fff&show_icons=true&count_private=true&theme=dark" /> |
+  </div>
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-  <img alt="github-snake" src="dist/github-snake-dark.svg" />
-</picture>
+<p align="center">
+  <a href="https://www.codewars.com/users/knnk"><img src="https://www.codewars.com/users/knnk/badges/large" /></a> 
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wfrsk&title_color=fff&text_color=fff&show_icons=true&count_private=true&theme=dark" />
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+    <img alt="github-snake" src="dist/github-snake-dark.svg" />
+  </picture>
+</p>
