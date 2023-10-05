@@ -5,7 +5,7 @@
   
   <div>
     <div>
-      <img style="width: 25%" align="right" src="https://moe-counter.glitch.me/get/@wfrsk?theme=rule34" />
+      <img style="width: 25%" align="right" src="https://moe-counter.glitch.me/get/@uncoordinated-assault?theme=rule34" />
     </div>
   
 
@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wfrsk&title_color=fff&text_color=fff&show_icons=true&count_private=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=uncoordinated-assault&title_color=fff&text_color=fff&show_icons=true&count_private=true&theme=dark" />
 </p>
 <p align="center">
   <picture>
