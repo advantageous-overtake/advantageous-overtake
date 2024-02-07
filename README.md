@@ -20,7 +20,7 @@
 </div>
 
 <p align="center">
-  <a href="https://www.codewars.com/users/knnk"><img src="https://www.codewars.com/users/knnk/badges/large" /></a> 
+  <a href="https://www.codewars.com/users/knnk"><img src="https://www.codewars.com/users/advantageous-overtake/badges/large" /></a> 
 </p>
 
 <p align="center">
